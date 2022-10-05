@@ -1,0 +1,4 @@
+abc
+acc
+word
+zaz
